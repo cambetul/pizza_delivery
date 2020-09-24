@@ -1,4 +1,3 @@
- //Betül Çam 150170058
 #include <iostream> 
 #include <string>  // in order to use getline() function
 
